@@ -5,5 +5,7 @@ Vui lòng cài đặt Express Nodejs và các thư viện cần thiết để c�
 npm init <br />
 npm i express mongoose nodemon dotenv <br />
 <br />
+Thay thế <your-mongodb-database-url> bằng url của mongodb trong file .env <br />
+<br />
 Script thực thi: <br />
 npm start <br />
